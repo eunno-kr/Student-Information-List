@@ -1,4 +1,4 @@
-<img width="468" height="73" alt="list_class_결과값" src="https://github.com/user-attachments/assets/eaefcca0-a7f2-4b77-add8-eafa0d18e579" />class student:    # 학생 클래스의 정의로 시작
+class student:    # 학생 클래스의 정의로 시작
 
   def __init__(self, name, age, score):  # 학생들의 클래스 이름 나이 점수를 초기 값을 설정
     self.name = name     # 이름
@@ -32,4 +32,5 @@ python lest_class.py
 이름: 김기웅, 나이: 28, 점수: 85<br>
 이름: 김시윤, 나이: 28, 점수: 80
 
-<img width="468" height="73" alt="list_class_결과값" src="https://github.com/user-attachments/assets/efaa81f7-624a-4e4a-beec-98415cd18e5d" />
+<img width="468" height="73" alt="list_class_결과값" src="https://github.com/user-attachments/assets/efaa81f7-624a-4e4a-beec-98415cd18e5d" /> <br>
+<img width="468" height="73" alt="list_class_결과값" src="https://github.com/user-attachments/assets/eaefcca0-a7f2-4b77-add8-eafa0d18e579" />
