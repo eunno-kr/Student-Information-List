@@ -1,4 +1,4 @@
-class student:    # 학생 클래스의 정의로 시작
+```class student:    # 학생 클래스의 정의로 시작
 
   def __init__(self, name, age, score):  # 학생들의 클래스 이름 나이 점수를 초기 값을 설정
     self.name = name     # 이름
@@ -20,7 +20,7 @@ student_list.append(student3) #학생 3을 리스트에 추가
 
 for studen in student_list:  # 반복문
   student.displat()  # 각 학생들읠 정보 출력
-
+```
 
 
 **터미널 실행**<br>
