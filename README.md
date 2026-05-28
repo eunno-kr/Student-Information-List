@@ -1,3 +1,4 @@
+**클래스로 학생 리스트 만들기**
 ```class student:    # 학생 클래스의 정의로 시작
 
   def __init__(self, name, age, score):  # 학생들의 클래스 이름 나이 점수를 초기 값을 설정
